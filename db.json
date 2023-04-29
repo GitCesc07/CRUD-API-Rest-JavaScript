@@ -1,3 +1,18 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "César Urroz",
+      "email": "cesar04071997@gmail.com",
+      "telefono": "75437011",
+      "empresa": "portafolio-cescdev",
+      "id": 1
+    },
+    {
+      "nombre": "Ana Mayorga",
+      "email": "anayancimayorgapalma@gmail.com",
+      "telefono": "83285792",
+      "empresa": "ImpaHut",
+      "id": 2
+    }
+  ]
 }
