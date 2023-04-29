@@ -1,3 +1,4 @@
+import { mostrarAlerta } from './funciones.js';
 
 (function () {
 
@@ -23,7 +24,7 @@
 
     if (validar(cliente)) {
       // Mostrar mensaje
-      console.log("Todos los campos deben de llenarse");
+      mostrarAlerta("Todos los campos son obligatorios");
       return;
     }
 
