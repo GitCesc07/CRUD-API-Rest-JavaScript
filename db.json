@@ -13,6 +13,13 @@
       "telefono": "83285792",
       "empresa": "ImpaHut",
       "id": 2
+    },
+    {
+      "nombre": "Carlos Mendoza",
+      "email": "carlosmendoza@yahoo.com",
+      "telefono": "86516655",
+      "empresa": "Alcaldía de Chinandega",
+      "id": 3
     }
   ]
 }
