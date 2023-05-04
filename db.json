@@ -20,6 +20,20 @@
       "telefono": "86516655",
       "empresa": "Alcaldía de Chinandega",
       "id": 3
+    },
+    {
+      "nombre": "Juan Cabrera",
+      "email": "juan@juan.com",
+      "telefono": "8462622265",
+      "empresa": "Panaderia Cabrera",
+      "id": 6
+    },
+    {
+      "nombre": "Victoria Renteria",
+      "email": "renteria@yahoo.com",
+      "telefono": "77724722",
+      "empresa": "Tortilleria Renteria",
+      "id": 7
     }
   ]
 }
