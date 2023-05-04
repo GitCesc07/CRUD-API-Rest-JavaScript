@@ -19,3 +19,7 @@ export function mostrarAlerta(mensaje) {
     }, 3000);
   }
 }
+
+export function validar(objt) {
+  return !Object.values(objt).every(input => input !== "");
+}
